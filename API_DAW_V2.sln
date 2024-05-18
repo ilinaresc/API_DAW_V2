@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_DAW_V2", "API_DAW_V2\API_DAW_V2.csproj", "{A8A56AFC-5DBF-4B91-80C6-FA93BD38001C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_DAW_DOMAIN", "API_DAW_DOMAIN\API_DAW_DOMAIN.csproj", "{DD1380B9-9768-42FD-8BEE-0433EFD5160F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8A56AFC-5DBF-4B91-80C6-FA93BD38001C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A56AFC-5DBF-4B91-80C6-FA93BD38001C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A56AFC-5DBF-4B91-80C6-FA93BD38001C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A56AFC-5DBF-4B91-80C6-FA93BD38001C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1380B9-9768-42FD-8BEE-0433EFD5160F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1380B9-9768-42FD-8BEE-0433EFD5160F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1380B9-9768-42FD-8BEE-0433EFD5160F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1380B9-9768-42FD-8BEE-0433EFD5160F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A2FC927-8FD0-44C6-BBBD-E3B883577CD3}
+	EndGlobalSection
+EndGlobal
